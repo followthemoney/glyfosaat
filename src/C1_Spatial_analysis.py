@@ -1,6 +1,6 @@
 # Written by Collin van Rooij in collaboration with Dimitri Tokmetzis for Follow the Money (FTM)
 # This script is used to analyze all the Areas of Interest (AOIs) and how they overlap with the glyphosate fields and as described in the  
-# methodology (Technische Verantwoording) that accompanies FTM's articly on glyphosate use in the Netherlands.
+# methodology (technical addendum) that accompanies FTM's articly on glyphosate use in the Netherlands.
 
 from pyarrow import parquet
 import geopandas as gpd

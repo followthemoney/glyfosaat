@@ -1,6 +1,6 @@
 # Written by Collin van Rooij in collaboration with Dimitri Tokmetzis for Follow the Money (FTM)
 # This script is used to acutally categorize the plots (from B1_NDVI_per_plot) as either sprayed or not sprayed and as described in the  
-# methodology (Technische Verantwoording) that accompanies FTM's articly on glyphosate use in the Netherlands.
+# methodology (technical addendum) that accompanies FTM's articly on glyphosate use in the Netherlands.
 
 from pyarrow import parquet
 import geopandas as gpd

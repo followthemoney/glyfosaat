@@ -1,6 +1,6 @@
 # Written by Collin van Rooij in collaboration with Dimitri Tokmetzis for Follow the Money (FTM)
 # This script is used to retrieve the Sentinel-2 satellite data as described in the 
-# methodology (Technische Verantwoording) that accompanies FTM's articly on glyphosate use in the Netherlands.
+# methodology (technical addendum) that accompanies FTM's articly on glyphosate use in the Netherlands.
 
 import os
 import requests

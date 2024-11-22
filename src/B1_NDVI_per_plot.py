@@ -1,6 +1,6 @@
 # Written by Collin van Rooij in collaboration with Dimitri Tokmetzis for Follow the Money (FTM)
 # This script is used to analyze the Sentinel-2 data per plot, as calculated in A1_get_satellite_data.py and as described in the  
-# methodology (Technische Verantwoording) that accompanies FTM's articly on glyphosate use in the Netherlands.
+# methodology (technical addendum) that accompanies FTM's articly on glyphosate use in the Netherlands.
 
 import geopandas as gpd
 import pandas as pd
