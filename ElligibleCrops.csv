@@ -1,0 +1,89 @@
+﻿gewas,gewascode,count,cumulative count,cumulative percentage,percentage of total,validation,begindate,enddate,begin_days,end_days
+"Grasland, blijvend",265,375658,375658,0.488515291,48.85152911,no,NA,NA,,
+"Maïs, snij-",259,73443,449101,0.584022451,9.550715949,no,43941,43952,79,90
+"Grasland, tijdelijk",266,73348,522449,0.67940607,9.538361906,no,NA,NA,,
+"Grasland, natuurlijk. Hoofdfunctie landbouw.",331,38305,560754,0.729218873,4.981280373,no,NA,NA,,
+"Tarwe, winter-",233,17847,578601,0.75242757,2.320869621,yes,NA,NA,,
+"Aardappelen, consumptie",2014,16806,595407,0.774282523,2.185495313,no,43925,43938,63,76
+"Bieten, suiker-",256,16074,611481,0.795185564,2.090304157,no,43905,43936,43,74
+"Aardappelen, poot NAK",2015,8697,620178,0.806495366,1.13098017,no,43925,43938,63,76
+"Gerst, zomer-",236,8087,628265,0.817011908,1.051654206,no,unknown,43951,,89
+"Aardappelen, zetmeel ",2017,7785,636050,0.827135722,1.012381352,no,43925,43938,63,76
+Natuurterreinen (incl. heide),335,5566,641616,0.834373891,0.723816905,yes,NA,NA,,
+"Tarwe, zomer-",234,5355,646971,0.84133767,0.696377924,no,43905,43936,43,74
+"Maïs, korrel-",316,5219,652190,0.848124591,0.678692136,no,43941,43983,79,90
+"Grasland, natuurlijk. Hoofdfunctie natuur.",332,5139,657329,0.854807478,0.668288731,yes,NA,NA,,
+Agrarisch natuurmengsel,1926,4976,662305,0.861278396,0.647091793,no,unknown,unknown,,
+"Uien, zaai-",262,4936,667241,0.867697297,0.641890091,no,43918,43948,56,86
+Peren. Aangeplant voorafgaande aan lopende seizoen.,1098,4642,671883,0.873733873,0.603657577,yes,NA,NA,,
+"Rand, grenzend aan bouwland, hoofdzakelijk bestaand uit een ander gewas dan gras. (EA: onbeheerd)",3804,4427,676310,0.879490857,0.575698426,no,NA,NA,,
+"Rand, grenzend aan bouwland, hoofdzakelijk bestaand uit tijdelijk gras",372,3918,680228,0.884585925,0.509506762,no,NA,NA,,
+"Bos, blijvend, met herplantplicht",1936,3503,683731,0.889141316,0.455539098,yes,NA,NA,,
+"Tulp, bloembollen en -knollen",1004,3234,686965,0.893346892,0.420557649,yes,,,-43862,-43862
+Appelen. Aangeplant voorafgaande aan lopende seizoen.,1096,3014,689979,0.897266375,0.391948285,yes,NA,NA,,
+"Gerst, winter-",235,2815,692794,0.900927073,0.366069815,yes,NA,NA,,
+"Sloot, grenzend aan beheerde akkerrand",343,2639,695433,0.904358897,0.343182324,no,NA,NA,,
+"Maïs, corncob mix",317,2377,697810,0.907450008,0.309111172,no,43941,43952,79,90
+"Laanbomen/parkbomen, opzetters, open grond,",1071,2171,699981,0.910273232,0.282322404,yes,NA,NA,,
+"Rand, grenzend aan bouwland, hoofdzakelijk bestaand uit een ander gewas dan gras. (EA: beheer)",3803,2150,702131,0.913069148,0.27959151,no,NA,NA,,
+Graszaad,383,2123,704254,0.915829951,0.276080361,no,44075,44104,213,242
+Luzerne,258,2121,706375,0.918588154,0.275820276,no,43936,43983,74,121
+"Bos- en haagplanten, open grond,",1067,1860,708235,0.921006946,0.241879167,yes,NA,NA,,
+Bos zonder herplantplicht,863,1612,709847,0.923103232,0.209628611,yes,NA,NA,,
+"Asperges, oppervlakte die productie oplevert",2710,1573,711420,0.925148801,0.204556951,no,NA,NA,,
+"Sierconiferen, open grond,",1074,1504,712924,0.927104641,0.195584015,yes,NA,NA,,
+"Sierheesters en klimplanten, open grond,",1075,1400,714324,0.928925237,0.182059588,yes,NA,NA,,
+"Winterpeen, productie",2785,1358,715682,0.930691215,0.1765978,no,NA,NA,,
+Uien poot en plant tweedejaars,1933,1287,716969,0.932364863,0.167364778,no,unknown,unknown,,
+"Lelie, bloembollen en -knollen",1002,1212,718181,0.933940979,0.157611586,yes,,,-43862,-43862
+Rogge (geen snijrogge),237,1187,719368,0.935484584,0.154360522,yes,NA,NA,,
+"Overige groenbemesters, niet-vlinderbloemige-",427,1175,720543,0.937012584,0.152800011,no,NA,NA,,
+"Bieten, voeder-",257,1141,721684,0.93849637,0.148378564,no,43910,43931,48,69
+"Rand, grenzend aan blijvend grasland of een blijvende teelt, hoofdzakelijk bestaand uit blijvend gras",333,1127,722811,0.93996195,0.146557968,no,NA,NA,,
+"Overige bloemen, overige bloemkwekerijgewassen",991,1058,723869,0.9413378,0.137585032,yes,NA,NA,,
+"Sierheesters en klimplanten, pot- en containerveld,",1089,1040,724909,0.942690243,0.135244265,yes,NA,NA,,
+"Rand, grenzend aan bouwland, hoofdzakelijk bestaand uit blijvend gras",334,1003,725912,0.943994569,0.130432691,no,NA,NA,,
+"Laanbomen/parkbomen, spillen, open grond,",1072,982,726894,0.945271587,0.127701797,yes,NA,NA,,
+"Aardappelen, poot TBM",2016,889,727783,0.946427666,0.115607838,no,43905,43936,43,74
+Japanse haver,670,871,728654,0.947560336,0.113267072,no,43922,44074,60,212
+Cichorei,511,857,729511,0.948674801,0.111446476,no,43922,unknown,60,
+"Vaste planten, open grond,",1080,823,730334,0.949745052,0.107025029,yes,NA,NA,,
+Overige granen,2652,791,731125,0.950773688,0.102863667,no,NA,NA,,
+Kerstbomen,796,730,731855,0.951722999,0.094931071,yes,NA,NA,,
+Engels raaigras,3506,704,732559,0.952638499,0.091549964,no,43882,43936,20,74
+Haver,238,703,733262,0.953552698,0.091419922,no,43882,43911,20,49
+"Klaver, rode",799,681,733943,0.954438288,0.088558985,no,43911,44089,49,227
+"Pioenroos, overige bloemkwekerijgewassen",1025,676,734619,0.955317375,0.087908773,yes,NA,NA,,
+"Tijdelijk onbeteelde grond, anders dan voor publieke werken",3802,649,735268,0.956161352,0.084397623,no,NA,NA,,
+"Pompoen, productie",2735,645,735913,0.957000126,0.083877453,no,15/5/2020,44075,,213
+"Waspeen, productie",2783,643,736556,0.9578363,0.083617368,no,43891,43983,29,121
+"Stamsperziebonen (=stamslabonen), productie",2779,638,737194,0.958665971,0.082967155,no,43952,43983,90,121
+"Erwten, groene/gele (groen te oogsten)",244,627,737821,0.959481338,0.081536687,no,43897,43936,35,74
+"Overige bloemen, bloembollen en -knollen",1006,600,738421,0.960261594,0.078025538,yes,NA,NA,,
+"Witlofwortel, productie",2787,598,739019,0.961039248,0.077765453,no,43942,43983,80,121
+"Kersen, zoet",2328,594,739613,0.961811701,0.077245282,yes,NA,NA,,
+Triticale,314,591,740204,0.962580253,0.076855155,yes,,,-43862,-43862
+"Narcis, bloembollen en -knollen",1003,587,740791,0.963343602,0.076334984,yes,,,-43862,-43862
+Graszoden,1921,568,741359,0.964082244,0.073864176,no,43910,43931,48,121
+"Overige niet genoemde groenten, productie",2793,568,741927,0.964820886,0.073864176,no,NA,NA,,
+"Buxus, open grond,",1068,546,742473,0.965530918,0.071003239,yes,NA,NA,,
+"Spinazie, productie",2773,522,742995,0.96620974,0.067882218,no,43876,43936,14,74
+Uien poot en plant eerstejaars,1932,521,743516,0.966887262,0.067752175,no,43905,43936,43,74
+"Bloemkool, zomer, productie",2797,518,744034,0.967560883,0.067362048,no,43876,43921,14,59
+"Vaste planten, pot- en containerteelt,",1094,516,744550,0.968231902,0.067101962,yes,NA,NA,,
+"Witte kool, productie",2789,508,745058,0.968892519,0.066061622,no,43911,43942,49,80
+"Bonen, bruine-",242,485,745543,0.969523225,0.063070643,no,43952,43983,90,121
+"Prei, winter, productie",2799,484,746027,0.970152631,0.0629406,no,NA,NA,,
+"Spruitkool/spruitjes, productie",2777,459,746486,0.970749526,0.059689536,no,43905,43928,43,66
+Pruimen,1870,459,746945,0.971346422,0.059689536,yes,NA,NA,,
+"Hyacint, bloembollen en - knollen",999,458,747403,0.971942017,0.059559494,yes,,,-43862,-43862
+"Knolselderij, productie",2725,446,747849,0.972522006,0.057998983,no,43928,43958,66,96
+"Vlas, vezel-",3736,445,748294,0.973100696,0.057868941,no,43911,43928,49,66
+"Broccoli, productie",2719,417,748711,0.973642973,0.054227749,no,43911,43972,49,110
+"Bessen, blauwe",1869,401,749112,0.974164444,0.052147068,no,NA,NA,,
+"Aardbeien open grond, productie",2702,382,749494,0.974661207,0.049676259,yes,,,-43862,-43862
+Bloemzaden open grond,174,379,749873,0.975154068,0.049286131,no,unknown,unknown,,
+Zonnebloemen,515,378,750251,0.975645629,0.049156089,no,43897,43972,35,110
+"Maïs, suiker-",814,377,750628,0.976135889,0.049026046,no,43948,43968,86,106
+"Rand, grenzend aan blijvend grasland of een blijvende teelt, hoofdzakelijk bestaand uit een ander gewas dan gras",344,363,750991,0.976607944,0.04720545,no,NA,NA,,
+"Bonen, veld- (onder andere duiven-, paarden-, wierbonen) ",311,359,751350,0.977074797,0.04668528,no,43876,43928,14,66
